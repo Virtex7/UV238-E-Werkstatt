@@ -1,3 +1,3 @@
-# Abluftsteuerung
+# UV238 - Steuerung und Unterverteilung der E-Werkstatt
 
-momentan nur Schaltplan, weil die Steuerung auf Relais und Hutschiene basiert.
+Schaltplan, weil die Steuerung auf Relais und Hutschiene basiert.
